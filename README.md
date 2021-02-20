@@ -1,2 +1,0 @@
-# SnoopDeveloper.github.io
-nice
